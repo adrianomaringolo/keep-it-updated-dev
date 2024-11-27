@@ -18,6 +18,8 @@ Esse repositório contém dicas para estudos e atualização no mercado de desen
 - Web: Starting
   - HTML (🚧)
   - CSS (🚧)
+    - Frameworks
+      - [TailwindCSS](./topics/frontend/tailwind/tailwind.md)
   - JS (🚧)
   - [Browser](./topics/web-start/browser.md)
 
